@@ -1,0 +1,31 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/caelus.pw.toml"
+hash = "c72297485eeb8ce7464544b35c7b22814c84288ac7e3eb0c21cc9b2f636e0be1"
+metafile = true
+
+[[files]]
+file = "mods/connectivity.pw.toml"
+hash = "1400f0a5f428367609794c7fe3fb825163cbb6bf5b6715dff5fbfe5f02c078d2"
+metafile = true
+
+[[files]]
+file = "mods/origins-forge.pw.toml"
+hash = "870e5b0ead71b2dd4f756187f14588c34272170e64e91d76d753c0730fccb660"
+metafile = true
+
+[[files]]
+file = "mods/origins-plus-plus.pw.toml"
+hash = "fecd546386f451e89e80cb5c708e2aaaa182caaa3b655ea7cc7059c720f403d5"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "a96c9a34d7d602553e1ad75812431a82b2cb9a2d30b595fa6bde67c4be674234"
+metafile = true
+
+[[files]]
+file = "mods/xl-packets.pw.toml"
+hash = "69a85643d125b0454ed6408cfa4a7cea1b3566c78ed3fd5f3107f93fa852f1c9"
+metafile = true
